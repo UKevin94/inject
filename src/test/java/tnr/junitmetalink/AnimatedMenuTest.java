@@ -32,7 +32,7 @@ public class AnimatedMenuTest {
     @Test
     public void testMenuBlog(){
         //Assertions.assertTrue(menuItem.contains("Blog"),"<img src='https://image.shutterstock.com/image-photo/easter-bunny-rabbit-blue-painted-260nw-1032901177.jpg'/>");
-		Assertions.assertTrue(menuItem.contains("Blog"),"\" toto zzzzzzzz &&&&");
+		Assertions.assertTrue(menuItem.contains("Blog"),"<script>alert(\"booooooooo\")</script>");
 
     }
 
